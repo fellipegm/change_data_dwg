@@ -3,8 +3,8 @@
 Modifica os dados de arquivos .dwg baseado em um arquivo de entrada
 tags_to_change.xlsx
 
-abril 2020
-@author: Fellipe Garcia Marques | 2233-AZ-002 | fellipe.marques@marinha.mil.br
+april 2020
+@author: Fellipe Garcia Marques | fellipegm@gmail.com
 """
 import os
 import glob
